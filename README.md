@@ -1,1 +1,3 @@
-# desafio-controle-fluxo
+# Desafio de controle de fluxo
+- Controle de fluxo
+- Exceções
